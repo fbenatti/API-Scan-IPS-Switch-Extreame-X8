@@ -2,13 +2,14 @@
 
 * This API GET list IP ARPs generate by Switch Extreame by API XML.
 
-* Requiriment enable API in Switch:
-- Apply this command in Switch:
-#enable web HTTP
+--Requiriment enable API in Switch:
 
-Use pip for install the python library in your server with Python:
+--Apply this command in Switch:
+##enable web HTTP
 
- pip install xmltodict json requests
+--Use pip for install the python library in your server with Python:
+
+##pip install xmltodict json requests
 
 * Usage teh system:
 
